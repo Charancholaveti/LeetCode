@@ -79,4 +79,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Charancholaveti/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
