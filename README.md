@@ -87,4 +87,12 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Charancholaveti/LeetCode/tree/master/0476-number-complement) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
