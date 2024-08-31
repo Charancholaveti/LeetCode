@@ -8,7 +8,7 @@ class Solution {
             char minDigit = (char) Math.min(Math.min(str1.charAt(i), str2.charAt(i)), str3.charAt(i));
             key.append(minDigit);
         }
-        String ans = key.toString().replaceFirst("^0+(?!$)", "");
+        String ans = key.toString();//.replaceFirst("^0+(?!$)", "");
         int ans1=Integer.parseInt(ans);
         return ans1;
     }
