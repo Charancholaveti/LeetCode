@@ -9,6 +9,7 @@
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Charancholaveti/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
@@ -99,8 +101,13 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
