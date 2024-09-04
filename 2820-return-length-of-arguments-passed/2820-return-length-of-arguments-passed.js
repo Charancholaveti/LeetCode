@@ -4,7 +4,7 @@
  */
 var argumentsLength = function(...args) {
     let ans=0;
-    for(var i=0;i<args.length;i++){
+    for(let i=0;i<args.length;i++){
         ans++;
     }
     return ans;
