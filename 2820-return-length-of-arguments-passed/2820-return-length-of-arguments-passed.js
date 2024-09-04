@@ -3,7 +3,7 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-    var ans=0;
+    let ans=0;
     for(var i=0;i<args.length;i++){
         ans++;
     }
