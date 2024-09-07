@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -119,9 +120,22 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Charancholaveti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Charancholaveti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
