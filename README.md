@@ -10,6 +10,7 @@
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Tree
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Charancholaveti/LeetCode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Charancholaveti/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Charancholaveti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -141,6 +145,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
