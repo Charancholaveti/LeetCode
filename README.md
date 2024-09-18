@@ -75,10 +75,12 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/Charancholaveti/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Charancholaveti/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Charancholaveti/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Charancholaveti/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Charancholaveti/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
