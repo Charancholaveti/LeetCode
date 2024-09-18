@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -97,6 +99,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
