@@ -8,6 +8,7 @@
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
+| [0485-max-consecutive-ones](https://github.com/Charancholaveti/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Charancholaveti/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
