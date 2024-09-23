@@ -13,6 +13,7 @@
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Charancholaveti/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
@@ -135,6 +137,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -179,5 +182,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
