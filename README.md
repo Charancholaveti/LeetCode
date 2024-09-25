@@ -16,6 +16,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Charancholaveti/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Charancholaveti/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
@@ -141,6 +143,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -149,6 +152,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Charancholaveti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -188,5 +192,6 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Charancholaveti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Charancholaveti/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
