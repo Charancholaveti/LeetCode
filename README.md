@@ -86,12 +86,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Charancholaveti/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Charancholaveti/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -109,6 +111,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Charancholaveti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
