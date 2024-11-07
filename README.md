@@ -15,6 +15,7 @@
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Charancholaveti/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
+| [0890-lemonade-change](https://github.com/Charancholaveti/LeetCode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Charancholaveti/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -146,6 +147,7 @@
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Charancholaveti/LeetCode/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
