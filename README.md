@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Charancholaveti/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
@@ -144,6 +146,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
