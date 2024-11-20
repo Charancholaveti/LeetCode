@@ -26,7 +26,7 @@ class Solution {
         }
         if(cnt1>m)al.add(ele1);
         if(cnt2>m)al.add(ele2);
-        Collections.sort(al);
+        // Collections.sort(al);
         return al;
         
     }
