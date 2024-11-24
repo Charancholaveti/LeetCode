@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Charancholaveti/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Charancholaveti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Charancholaveti/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Charancholaveti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -211,6 +213,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Charancholaveti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
