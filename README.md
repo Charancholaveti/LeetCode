@@ -89,6 +89,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Charancholaveti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -203,6 +204,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Charancholaveti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -227,6 +229,7 @@
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
 ## Counting
