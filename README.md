@@ -55,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Charancholaveti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Charancholaveti/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Charancholaveti/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charancholaveti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Charancholaveti/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Charancholaveti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
