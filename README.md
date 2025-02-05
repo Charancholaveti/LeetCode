@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Charancholaveti/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/Charancholaveti/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Charancholaveti/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -256,6 +257,7 @@
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Charancholaveti/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
