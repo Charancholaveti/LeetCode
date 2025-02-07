@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/Charancholaveti/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Charancholaveti/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Charancholaveti/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Charancholaveti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Charancholaveti/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charancholaveti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Charancholaveti/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Charancholaveti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Charancholaveti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Charancholaveti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Charancholaveti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
@@ -252,6 +254,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Charancholaveti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
