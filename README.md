@@ -42,6 +42,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
 | [2227-sum-of-subarray-ranges](https://github.com/Charancholaveti/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2551-apply-operations-to-an-array](https://github.com/Charancholaveti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Charancholaveti/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Charancholaveti/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2551-apply-operations-to-an-array](https://github.com/Charancholaveti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
+| [2551-apply-operations-to-an-array](https://github.com/Charancholaveti/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Charancholaveti/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
