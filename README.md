@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/Charancholaveti/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Charancholaveti/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@
 | [0075-sort-colors](https://github.com/Charancholaveti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Charancholaveti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Charancholaveti/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Charancholaveti/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Charancholaveti/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Charancholaveti/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Charancholaveti/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
