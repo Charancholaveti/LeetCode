@@ -85,6 +85,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Charancholaveti/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Charancholaveti/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Charancholaveti/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -133,6 +135,7 @@
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Charancholaveti/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Charancholaveti/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Charancholaveti/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -215,6 +218,7 @@
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Charancholaveti/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Charancholaveti/LeetCode/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
 |  |
