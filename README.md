@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Charancholaveti/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Charancholaveti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Charancholaveti/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Charancholaveti/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charancholaveti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charancholaveti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Charancholaveti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Charancholaveti/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Charancholaveti/LeetCode/tree/master/0125-valid-palindrome) |
@@ -355,4 +357,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Charancholaveti/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Charancholaveti/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
