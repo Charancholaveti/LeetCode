@@ -102,6 +102,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Charancholaveti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Charancholaveti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Charancholaveti/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Charancholaveti/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -140,6 +141,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Charancholaveti/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Charancholaveti/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Charancholaveti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Charancholaveti/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -203,6 +205,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Charancholaveti/LeetCode/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Charancholaveti/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Charancholaveti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Charancholaveti/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
