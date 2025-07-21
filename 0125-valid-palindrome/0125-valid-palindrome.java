@@ -3,7 +3,7 @@ class Solution {
        if (s.isEmpty()) return true;
        int start=0;
        int end=s.length()-1;
-       while(start<=end){
+       while(start<end){
         char first=s.charAt(start);
         char last=s.charAt(end);
         if(!Character.isLetterOrDigit(first)) start++;
