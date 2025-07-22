@@ -149,6 +149,7 @@
 | [0443-string-compression](https://github.com/Charancholaveti/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Charancholaveti/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Charancholaveti/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Charancholaveti/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Charancholaveti/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Charancholaveti/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -366,6 +367,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Charancholaveti/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Charancholaveti/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search Tree
 |  |
