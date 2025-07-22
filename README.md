@@ -141,6 +141,7 @@
 | [0125-valid-palindrome](https://github.com/Charancholaveti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Charancholaveti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Charancholaveti/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Charancholaveti/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Charancholaveti/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Charancholaveti/LeetCode/tree/master/0402-remove-k-digits) |
@@ -292,6 +293,7 @@
 | [0049-group-anagrams](https://github.com/Charancholaveti/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Charancholaveti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Charancholaveti/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Charancholaveti/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Charancholaveti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Charancholaveti/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Charancholaveti/LeetCode/tree/master/0268-missing-number) |
