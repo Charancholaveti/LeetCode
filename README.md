@@ -154,6 +154,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Charancholaveti/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Charancholaveti/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Charancholaveti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Charancholaveti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Charancholaveti/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Charancholaveti/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -235,6 +236,7 @@
 | [0455-assign-cookies](https://github.com/Charancholaveti/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Charancholaveti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Charancholaveti/LeetCode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/Charancholaveti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -252,6 +254,7 @@
 | [0367-valid-perfect-square](https://github.com/Charancholaveti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Charancholaveti/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Charancholaveti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/Charancholaveti/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Charancholaveti/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Charancholaveti/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
